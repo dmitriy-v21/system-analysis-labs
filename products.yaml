@@ -23,38 +23,37 @@ catalogs:
 products:
 - id: item_1b678f890bbe
   group: Напитки
-  name: Вода Ручеек Долина родников питьевая газированная 1.5л 4.9 · 262 отзыва В
-    корзину
+  name: Вода Ручеек Долина родников питьевая газированная 1.5л 5 · 263 отзыва В корзину
   url: https://magnit.ru/product/1599401684-rucheek_goryachiy_klyuch_2006_pitevaya_voda_gaz_1_5l?shopCode=992301&shopType=dostavka
 - id: item_a8b1646d183e
   group: Вода
-  name: Вода минеральная газированная Borjomi 1.25л 5 · 404 отзыва В корзину
+  name: Вода минеральная газированная Borjomi 1.25л 5 · 407 отзывов В корзину
   url: https://magnit.ru/product/1000280698-voda_borjomi_mineralnaya_gazirovannaya_1_25l?shopCode=992301&shopType=dostavka
 - id: item_eebdbf5c83ef
-  group: Напитки
-  name: Вода газированная Святой Источник 1.5л 5 · 580 отзывов В корзину
+  group: Вода
+  name: Вода газированная Святой Источник 1.5л 4.8 · 588 отзывов В корзину
   url: https://magnit.ru/product/2400001913-svyatoy_istochnik_pitev_voda_gaz_1_5l_pl_but_ids_borjomi_6?shopCode=992301&shopType=dostavka
 - id: item_3460c45e37a2
   group: Напитки
-  name: Вода Ручеек Долина родников питьевая негазированная 5л 4.9 · 76 отзывов В
+  name: Вода Ручеек Долина родников питьевая негазированная 5л 4.9 · 79 отзывов В
     корзину
   url: https://magnit.ru/product/1000165728-rucheek_goryachiy_klyuch_2006_1_pitevaya_voda_negaz_5l?shopCode=992301&shopType=dostavka
 - id: item_262ec37e40b2
   group: Напитки
-  name: Вода Горячий ключ №2000 минеральная газированная 1.5л 4.8 · 185 отзывов В
+  name: Вода Горячий ключ №2000 минеральная газированная 1.5л 4.7 · 186 отзывов В
     корзину
   url: https://magnit.ru/product/1000135250-goryachiy_klyuch_2000_min_vod_gaz1_5lpl_but_goryacheklyuchevskoy_6?shopCode=992301&shopType=dostavka
 - id: item_030e670aa6d1
   group: Вода
-  name: Вода минеральная газированная Borjomi 500мл 4.8 · 220 отзывов В корзину
+  name: Вода минеральная газированная Borjomi 500мл 5 · 223 отзыва В корзину
   url: https://magnit.ru/product/1000095448-voda_borjomi_mineralnaya_steklo_0_5l?shopCode=992301&shopType=dostavka
 - id: item_dd858a750dcc
   group: Вода
-  name: Вода негазированная Святой Источник 5л 4.9 · 168 отзывов В корзину
+  name: Вода негазированная Святой Источник 5л 4.9 · 171 отзыв В корзину
   url: https://magnit.ru/product/1000099631-svyatoy_istochnik_pitevaya_voda_negaz_5l_pl_but_edelveys_l_2?shopCode=992301&shopType=dostavka
 - id: item_524ebf9de595
   group: Напитки
-  name: Вода негазированная со вкусом лимона Святой Источник 1.5л 5 · 805 отзывов
+  name: Вода негазированная со вкусом лимона Святой Источник 1.5л 5 · 819 отзывов
     В корзину
   url: https://magnit.ru/product/1000425308-svyatoy_istochnik_voda_pitevaya_limon_1_5l?shopCode=992301&shopType=dostavka
 - id: item_ae88cd6734fc
@@ -64,12 +63,12 @@ products:
   url: https://magnit.ru/product/8000138126-svyatoy_istochnik_voda_pitevaya_arbuz_n_gaz_1_5l?shopCode=992301&shopType=dostavka
 - id: item_a1f349a1dfa2
   group: Напитки
-  name: 12% 56.99 ₽ Вода Казбек-Аква минеральная газированная 1.5л 4.6 · 29 отзывов
+  name: 12% 56,99 ₽ Вода Казбек-Аква минеральная газированная 1.5л 4.7 · 30 отзывов
     В корзину
   url: https://magnit.ru/product/9821747005-kazbek_akva_mineraln_voda_gaz_1_5l_pl_but_agrofirma_fat_6?shopCode=992301&shopType=dostavka
 - id: item_d3027dfa05de
   group: Напитки
-  name: Вода Моя цена питьевая негазированная 5л 4.8 · 1394 отзыва В корзину
+  name: Вода Моя цена питьевая негазированная 5л 4.9 · 1475 отзывов В корзину
   url: https://magnit.ru/product/1000381367-voda_5l_plastikovaya_butylka_rossiya_2?shopCode=992301&shopType=dostavka
 - id: item_909fb3d0ed8b
   group: Напитки
@@ -77,11 +76,12 @@ products:
   url: https://magnit.ru/product/1009972541-voda_senezhskaya_mineralnaya_gazirovannaya_1_5l?shopCode=992301&shopType=dostavka
 - id: item_b3c658e98101
   group: Напитки
-  name: Вода Кубай-1 питьевая газированная 1.5л 4.9 · 57 отзывов В корзину
+  name: Вода Кубай-1 питьевая газированная 1.5л 4.9 · 59 отзывов В корзину
   url: https://magnit.ru/product/9822000004-voda_kubay_pitevaya_gazirovannaya_1_5l?shopCode=992301&shopType=dostavka
 - id: item_e3682c4eb8c4
   group: Напитки
-  name: Вода Майкопская минеральная газированная 1.5л 4.9 · 176 отзывов В корзину
+  name: 19% 46,99 ₽ Вода Майкопская минеральная газированная 1.5л 4.9 · 179 отзывов
+    В корзину
   url: https://magnit.ru/product/9899996495-maykopskaya_min_voda_gaz_1_5l_pl_but_limon_f_ka_maykopskaya_6?shopCode=992301&shopType=dostavka
 - id: item_59dc518ee21d
   group: Напитки
@@ -99,12 +99,12 @@ products:
   url: https://magnit.ru/product/1000372583-akvalayn_dlya_lyal_voda_pitevaya_d_detskogo_pitaniya_1_5l?shopCode=992301&shopType=dostavka
 - id: item_384c19e422f1
   group: Напитки
-  name: Вода Легенда Гор Архыз природная негазированная 5л 4.9 · 84 отзыва В корзину
+  name: Вода Легенда Гор Архыз природная негазированная 5л 5 · 86 отзывов В корзину
   url: https://magnit.ru/product/1000206544-legenda_gor_arkhyz_prirodnaya_voda_negaz_5l_pl_but_akvalayn_2?shopCode=992301&shopType=dostavka
 - id: item_55675575d7e2
   group: Напитки
-  name: 10% 119.99 ₽ Вода Аквалайн Для Ляль питьевая для детского питания негазированная
-    5л 4.9 · 161 отзыв В корзину
+  name: 10% 119,99 ₽ Вода Аквалайн Для Ляль питьевая для детского питания негазированная
+    5л 5 · 162 отзыва В корзину
   url: https://magnit.ru/product/1000372584-akvalayn_voda_pitevaya_dlya_detskogo_pitaniya_negazirovannaya_prirodnaya_5l_5l_plastikovaya_butylka_?shopCode=992301&shopType=dostavka
 - id: item_8bd935c2cfe2
   group: Напитки
@@ -122,7 +122,7 @@ products:
   url: https://magnit.ru/product/1522000001-piligrim_pitevaya_voda_negaz_1_5l_pl_but_merkuriy_6?shopCode=992301&shopType=dostavka
 - id: item_e16fbad3094f
   group: Вода
-  name: Вода Псыж минеральная лечебно-столовая природная газированная 1л 4.9 · 1574
+  name: Вода Псыж минеральная лечебно-столовая природная газированная 1л 5 · 1593
     отзыва В корзину
   url: https://magnit.ru/product/1000204590-voda_psyzh_mineralnaya_lechebno_stolovaya_gazirovannaya_1l?shopCode=992301&shopType=dostavka
 - id: item_aaf3702a572e
@@ -175,11 +175,11 @@ products:
   url: https://magnit.ru/catalog/63797-testmmsoki_i_morsy
 - id: item_a1133123b0c3
   group: Соки
-  name: Сок Сады Придонья Мультифрукт 200мл 4.7 · 59 отзывов В корзину
+  name: Сок Сады Придонья Мультифрукт 200мл 4.8 · 60 отзывов В корзину
   url: https://magnit.ru/product/9899996043-sok_sady_pridonya_multifruktovyy_200ml?shopCode=992301&shopType=dostavka
 - id: item_17aeda1e90b9
   group: Соки
-  name: Нектар Ладушки Мультифруктовый 200мл 4.9 · 48 отзывов В корзину
+  name: Нектар Ладушки Мультифруктовый 200мл 5 · 48 отзывов В корзину
   url: https://magnit.ru/product/8000032170-ladushki_nektar_multifruktovyy_0_2l_t_pak?shopCode=992301&shopType=dostavka
 - id: item_e1ffb7050c5a
   group: Соки
@@ -187,27 +187,27 @@ products:
   url: https://magnit.ru/product/1000214897-sok_sady_pridonya_yabloko_pryamogo_otzhima_125ml?shopCode=992301&shopType=dostavka
 - id: item_678467c897eb
   group: Соки
-  name: Сок Дары Кубани Яблочный с 4 месяцев 200мл 4.9 · 99 отзывов В корзину
+  name: Сок Дары Кубани Яблочный с 4 месяцев 200мл 5 · 100 отзывов В корзину
   url: https://magnit.ru/product/1000293186-dary_kubani_sok_yabl_vosstan_osvet_s4mes_0_2l_tetra_pak_ooo_yuzhnaya_sokovaya_kompaniya_15?shopCode=992301&shopType=dostavka
 - id: item_f3cadaaab22a
   group: Соки
-  name: 46% 31.98 ₽ Сок Сады Придонья Яблоко-вишня 125мл 4.8 · 87 отзывов В корзину
+  name: Сок Сады Придонья Яблоко-вишня 125мл 4.9 · 87 отзывов В корзину
   url: https://magnit.ru/product/1000248525-sok_sady_pridonya_yabloko_i_vishnya_125ml?shopCode=992301&shopType=dostavka
 - id: item_cef49fdfe7ea
   group: Соки
-  name: Сок Дары Кубани яблочный с 4 месяцев 200мл 4.9 · 7 отзывов В корзину
+  name: Сок яблочный с 4 месяцев Дары Кубани 200мл 4.9 · 7 отзывов В корзину
   url: https://magnit.ru/product/1000380333-dary_kubani_sok_yablochnyy_s_4_mes_0_2l_tetra_pak_ooo_yuzhnaya_sokovaya_kompaniya_15?shopCode=992301&shopType=dostavka
 - id: item_5cbea9f2bfd7
   group: Соки
-  name: Сок Дары Кубани яблоко-виноград с 6 месяцев 200мл 4.8 · 46 отзывов В корзину
+  name: Сок Дары Кубани яблоко-виноград с 6 месяцев 200мл 4.9 · 46 отзывов В корзину
   url: https://magnit.ru/product/1000356716-dary_kubani_sok_yablochno_vinogradnyy_vosstanovlennyy_osvetlennyy_s_6_mesyatsev_0_2l_tetra_pak_ooo_yu?shopCode=992301&shopType=dostavka
 - id: item_30f13f9dda87
   group: Соки
-  name: Сок Дары Кубани Яблоко и груша с 5 месяцев 200мл 4.9 · 71 отзыв В корзину
+  name: Сок Дары Кубани Яблоко и груша с 5 месяцев 200мл 4.8 · 72 отзыва В корзину
   url: https://magnit.ru/product/1000302719-dary_kubani_sok_yabl_grush_voss_osv_s_5mes_0_2l_tetra_pak_ooo_yuzhnaya_sokovaya_kompaniya_15?shopCode=992301&shopType=dostavka
 - id: item_50e642d61d4d
   group: Соки
-  name: Сок Сады Придонья Зеленое яблоко 200мл 4.8 · 158 отзывов В корзину
+  name: Сок Сады Придонья Зеленое яблоко 200мл 4.9 · 161 отзыв В корзину
   url: https://magnit.ru/product/9899996041-sok_sady_pridonya_zelenoe_yabloko_200ml?shopCode=992301&shopType=dostavka
 - id: item_e8ea7466c447
   group: Соки
@@ -215,11 +215,11 @@ products:
   url: https://magnit.ru/product/1000400183-dary_kubani_sok_yablochno_vishnevyy_125ml_t_pak?shopCode=992301&shopType=dostavka
 - id: item_677274983389
   group: Соки
-  name: Сок Дары Кубани Мультифрукт с 6 месяцев 200мл 4.9 · 25 отзывов В корзину
+  name: Сок Дары Кубани Мультифрукт с 6 месяцев 200мл 5 · 26 отзывов В корзину
   url: https://magnit.ru/product/1000302717-dary_kubani_sok_multif_voss_s_6mes_0_2l_tetra_pak_ooo_yuzhnaya_sokovaya_kompaniya_15?shopCode=992301&shopType=dostavka
 - id: item_5d1dd418024a
   group: Соки
-  name: Сок Дары Кубани Яблочно-шиповниковый 125мл 4.8 · 62 отзыва В корзину
+  name: Сок Дары Кубани Яблочно-шиповниковый 125мл 4.7 · 63 отзыва В корзину
   url: https://magnit.ru/product/1000400185-dary_kubani_sok_yablochno_shipovnikovyy_125ml_t_pak?shopCode=992301&shopType=dostavka
 - id: item_5b8072d7549c
   group: Соки
@@ -232,7 +232,7 @@ products:
   url: https://magnit.ru/product/1000302718-dary_kubani_sok_yabl_persik_s_myak_s_5mes_0_2l_t_pak_yusk_15?shopCode=992301&shopType=dostavka
 - id: item_067dc5cbc031
   group: Соки
-  name: Сок Дары Кубани яблоко-вишня с 5 месяцев 200мл 4.8 · 28 отзывов В корзину
+  name: Сок Дары Кубани яблоко-вишня с 5 месяцев 200мл 4.9 · 28 отзывов В корзину
   url: https://magnit.ru/product/1000302716-sok_dary_kubani_yabloko_vishnya_s_5_mes_200ml?shopCode=992301&shopType=dostavka
 - id: item_eb9a493cf199
   group: Соки
@@ -258,7 +258,7 @@ products:
   url: https://magnit.ru/product/1000203297-napitok_agusha_yabloko_300ml?shopCode=992301&shopType=dostavka
 - id: item_9b93f9f1d48b
   group: Соки
-  name: 46% 31.98 ₽ Сок Сады Придонья яблоко-шиповник 125мл 4.8 · 2 отзыва В корзину
+  name: Сок Сады Придонья яблоко-шиповник 125мл 4.8 · 2 отзыва В корзину
   url: https://magnit.ru/product/1059990378-sok_sady_pridonya_yabl_shipovnik_125ml?shopCode=992301&shopType=dostavka
 - id: item_d1d98e00af73
   group: Соки
@@ -274,7 +274,7 @@ products:
   url: https://magnit.ru/product/1059990474-sok_frutonyanya_yabloko_osvetlennyy_bez_sakhara_200ml?shopCode=992301&shopType=dostavka
 - id: item_c1a9d2c2ffaa
   group: Вода
-  name: Минеральная вода газированная Рычал-Су 500мл 4.8 · 206 отзывов В корзину
+  name: Минеральная вода газированная Рычал-Су 500мл 4.9 · 207 отзывов В корзину
   url: https://magnit.ru/product/3272102701-voda_rychal_su_mineralnaya_gazirovannaya_500ml?shopCode=992301&shopType=dostavka
 - id: item_dfe835d63f5a
   group: Вода
@@ -298,24 +298,24 @@ products:
   url: https://magnit.ru/product/1000533530-moy_sok_zel_yabl_osvet_s_4mes_0_125l_t_pak?shopCode=992301&shopType=dostavka
 - id: item_8da5dd73c720
   group: Соки
-  name: Сок Сады Придонья Яблоко прямого отжима 200мл 4.9 · 108 отзывов В корзину
+  name: Сок Сады Придонья Яблоко прямого отжима 200мл 4.9 · 110 отзывов В корзину
   url: https://magnit.ru/product/9899996042-sok_sady_pridonya_yabloko_pryamoy_otzhim_200ml?shopCode=992301&shopType=dostavka
 - id: item_c6aec771777e
-  group: Напитки
-  name: 11% 169.99 ₽ Нектар Грейпфрут-мандарин Premiere of Taste 950мл 4.7 · 139 отзывов
+  group: Вода и напитки — дополнительный каталог
+  name: 11% 169,99 ₽ Нектар Грейпфрут-мандарин Premiere of Taste 950мл 4.8 · 150 отзывов
     В корзину
   url: https://magnit.ru/product/1000527653-premiere_of_taste_nektar_greypfrut_mandarin_0_95l_t_pak?shopCode=992301&shopType=dostavka
 - id: item_d6229071e37d
   group: Напитки
-  name: 18% 179.99 ₽ Нектар манговый Premiere of taste 1л 4.7 · 74 отзыва В корзину
+  name: 18% 179,99 ₽ Нектар манговый Premiere of taste 1л 4.7 · 75 отзывов В корзину
   url: https://magnit.ru/product/1000526134-premiere_of_taste_nektar_mango_1l_st_but?shopCode=992301&shopType=dostavka
 - id: item_8403af5bd8c2
   group: Напитки
   name: 15% 169.99 ₽ Нектар Вишнёвый Premiere of Taste 950мл 4.8 · 42 отзыва В корзину
   url: https://magnit.ru/product/1000527652-premiere_of_taste_nektar_vishnya_0_95l_t_pak?shopCode=992301&shopType=dostavka
 - id: item_f70c29bf9856
-  group: Напитки
-  name: 31% 219.99 ₽ Нектар со вкусом апельсин-манго Premiere of Taste 950мл 4.8 ·
+  group: Вода и напитки — дополнительный каталог
+  name: 31% 219,99 ₽ Нектар со вкусом апельсин-манго Premiere of Taste 950мл 4.8 ·
     59 отзывов В корзину
   url: https://magnit.ru/product/1000527651-premiere_of_taste_nektar_apelsin_mango_0_95l_t_pak?shopCode=992301&shopType=dostavka
 - id: item_6b78c13ddda0
@@ -340,12 +340,11 @@ products:
   url: https://magnit.ru/product/1000566402-premiere_of_taste_kompot_iz_ayvy_1l_st_b?shopCode=992301&shopType=dostavka
 - id: item_1497a8558d9e
   group: Напитки
-  name: 20% 109.99 ₽ Квас Староминский традиционный пастеризованный 1.5л 4.9 · 256
-    отзывов В корзину
+  name: Квас Староминский традиционный пастеризованный 1.5л 4.8 · 260 отзывов В корзину
   url: https://magnit.ru/product/9899996409-starominskiy_kvas_traditsionnyy_pasterizovanyy_1_5l_priboy_6?shopCode=992301&shopType=dostavka
 - id: item_c509731305b4
-  group: Напитки
-  name: 9% 164.99 ₽ Напиток Черноголовка Кола 2л 4.6 · 1329 отзывов В корзину
+  group: Вода и напитки — дополнительный каталог
+  name: 9% 164,99 ₽ Напиток Черноголовка Кола 2л 4.9 · 1347 отзывов В корзину
   url: https://magnit.ru/product/1000431577-chernogolovka_napit_kola_b_a_sil_gaz_2l_pl_but_akvalayf?shopCode=992301&shopType=dostavka
 - id: item_ef0b9f21ced4
   group: Напитки
@@ -353,7 +352,7 @@ products:
   url: https://magnit.ru/product/1000456965-dobryy_napitok_kola_b_a_s_g_pl_b_1_5l_pl_but?shopCode=992301&shopType=dostavka
 - id: item_166b02b701ec
   group: Напитки
-  name: 9% 159.99 ₽ Напиток Добрый Cola без сахара 1.5л 4.9 · 583 отзыва В корзину
+  name: Напиток Добрый Cola без сахара 1.5л 5 · 600 отзывов В корзину
   url: https://magnit.ru/product/1000475610-dobryy_napitok_kola_b_sakh_b_a_s_g_1_5l_pl_but_multon?shopCode=992301&shopType=dostavka
 - id: item_88aa0bf9f521
   group: Напитки
@@ -364,13 +363,13 @@ products:
   name: Квас Очаковский двойного брожения 2л 4.9 · 1623 отзыва В корзину
   url: https://magnit.ru/product/3272430018-kvas_ochakovskiy_2l?shopCode=992301&shopType=dostavka
 - id: item_a482fab5836e
-  group: Лимонады и газировка
-  name: 18% 159.99 ₽ Напиток Черноголовка Лимонад 2л 4.9 · 788 отзывов В корзину
+  group: Вода и напитки — дополнительный каталог
+  name: 11% 169,99 ₽ Напиток Черноголовка Лимонад 2л 4.9 · 800 отзывов В корзину
   url: https://magnit.ru/product/1000156240-chernogolovka_napitok_limonad_gaz_2l_pet_akvalayf_pk_6?shopCode=992301&shopType=dostavka
 - id: item_ef8a039250f3
   group: Лимонады и газировка
-  name: 26% 199.99 ₽ Газированный напиток Лимон-лайм Frustyle 2л 4.9 · 384 отзыва
-    В корзину
+  name: 26% 199,99 ₽ Газированный напиток Лимон-лайм Frustyle 2л 5 · 394 отзыва В
+    корзину
   url: https://magnit.ru/product/1000447041-frustyle_napit_limon_laym_b_a_sil_gaz_p_b_2_l_pepsiko?shopCode=992301&shopType=dostavka
 - id: item_b2327936f332
   group: Лимонады и газировка
@@ -378,7 +377,7 @@ products:
   url: https://magnit.ru/product/1000507462-bavariya_napitok_tarkhun_gaz_1_5l_pl_but?shopCode=992301&shopType=dostavka
 - id: item_f37d141c8bcf
   group: Лимонады и газировка
-  name: 18% 159.99 ₽ Напиток Черноголовка Тархун 2л 4.9 · 423 отзыва В корзину
+  name: 11% 169,99 ₽ Напиток Черноголовка Тархун 2л 4.8 · 427 отзывов В корзину
   url: https://magnit.ru/product/9858700005-napitok_tarkhun_napitki_iz_chernogolovki_gazirovannyy_2l?shopCode=992301&shopType=dostavka
 - id: item_54c1eabc2884
   group: Лимонады и газировка
@@ -400,18 +399,18 @@ products:
   url: https://magnit.ru/product/1000272579-napitki_iz_chernogolovki_tarkhun_gaz_1_5?shopCode=992301&shopType=dostavka
 - id: item_79aa4910a1a5
   group: Холодный чай и кофе
-  name: Напиток Фрутмотив Ice Tea Чай зеленый холодный Малина 1.5л 4.8 · 236 отзывов
+  name: Напиток Фрутмотив Ice Tea Чай зеленый холодный Малина 1.5л 4.9 · 241 отзыв
     В корзину
   url: https://magnit.ru/product/1000514573-frutmotiv_icetea_napitok_zelenyy_chay_malina_1_5l_pl_but?shopCode=992301&shopType=dostavka
 - id: item_9777807fe22a
   group: Холодный чай и кофе
-  name: Напиток Фрутмотив Ice Tea Чай черный холодный Лесные ягоды 1.5л 4.8 · 149
-    отзывов В корзину
+  name: Напиток Фрутмотив Ice Tea Чай черный холодный Лесные ягоды 1.5л 4.8 · 153
+    отзыва В корзину
   url: https://magnit.ru/product/1000514572-frutmotiv_icetea_napitok_chern_chay_lesnye_yagody_1_5l_pl_but?shopCode=992301&shopType=dostavka
 - id: item_2ef43bedeb73
   group: Холодный чай и кофе
-  name: Напиток Фрутмотив Ice Tea Зеленый чай Клубника и алоэ вера 1.5л 4.8 · 124
-    отзыва В корзину
+  name: Напиток Фрутмотив Ice Tea Зеленый чай Клубника и алоэ вера 1.5л 4.9 · 130
+    отзывов В корзину
   url: https://magnit.ru/product/1000584862-frutmotiv_icetea_nap_zel_chay_klubnika_aloe_1_5l?shopCode=992301&shopType=dostavka
 - id: item_a33d0f5b92b8
   group: Холодный чай и кофе
@@ -905,3 +904,299 @@ products:
   group: Вода и напитки — дополнительный каталог
   name: 14% 89,99 ₽ Напиток Aziano Mojito 350мл 4.7 · 11 отзывов В корзину
   url: https://magnit.ru/product/1000401366-aziano_mojito_napitok_gaz_b_a_350ml_pl_ban
+- id: item_b42f6a9843f0
+  group: Вода
+  name: Вода негазированная Святой Источник 1.5л 4.8 · 452 отзыва В корзину
+  url: https://magnit.ru/product/1521515002-svyatoy_istochnik_pitev_voda_negaz_1_5l_pl_but_ids_borjomi_6?shopCode=992301&shopType=dostavka
+- id: item_71061667b75a
+  group: Вода
+  name: Негазированная детская вода Черноголовка Gipopo 1.5л 4.8 · 20 отзывов В корзину
+  url: https://magnit.ru/product/8000063382-chernogolovka_gipopo_voda_detskaya_negaz_1_5l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_b6fd16ac340a
+  group: Вода
+  name: 15% 57,99 ₽ Вода ТБАУ питьевая минеральная природная столовая газированная
+    1.5л 4.7 · 6 отзывов В корзину
+  url: https://magnit.ru/product/1000564371-tbau_voda_mineral_prirodnaya_stolovaya_pit_gaz_1_5l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_e03fa0b35e4e
+  group: Вода
+  name: 18% 73,99 ₽ Вода Премиум питьевая минеральная природная негазированная ТБАУ
+    500мл 4.8 · 12 отзывов В корзину
+  url: https://magnit.ru/product/1000453596-tbau_premium_voda_min_prirodnaya_pitevaya_negaz_0_5l_st_b?shopCode=992301&shopType=dostavka
+- id: item_53c7527632fc
+  group: Вода
+  name: Вода Бештау минеральная газированная 1л 4.9 · 22 отзыва В корзину
+  url: https://magnit.ru/product/1000573511-beshtau_voda_mineralnaya_gaz_1_l_pl_but_akva_vayt?shopCode=992301&shopType=dostavka
+- id: item_81928f93567b
+  group: Вода
+  name: Газированная вода минеральная Кристальный Родник 1.5л 4.7 · 94 отзыва В корзину
+  url: https://magnit.ru/product/1000586019-kristalnyy_rodnik_voda_mineralnaya_gaz_1_5l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_95ce36d14fb0
+  group: Вода
+  name: Вода с соком газированная лимон и цитрус Святой Источник 1.5л 4.7 · 82 отзыва
+    В корзину
+  url: https://magnit.ru/product/1000519070-svyatoy_istochnik_voda_sok_tsitrus_1_5l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_555a33ccd644
+  group: Вода
+  name: Негазированная детская вода Черноголовка Gipopo 330мл 5 · 15 отзывов В корзину
+  url: https://magnit.ru/product/8000063385-chernogolovka_gipopo_voda_detskaya_negaz_0_33l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_34c92add0950
+  group: Вода
+  name: Вода Только вода питьевая артезианская негазированная 500мл 4.8 · 50 отзывов
+    В корзину
+  url: https://magnit.ru/product/1000215134-tolko_pitevaya_voda_arteziansk_negaz_0_5l_pl_but_ekolab_12?shopCode=992301&shopType=dostavka
+- id: item_1710534482e9
+  group: Вода
+  name: Вода минеральная газированная Старый источник 500мл 4.8 · 132 отзыва В корзину
+  url: https://magnit.ru/product/1000146710-voda_nagutskaya_26_mineralnaya_steklo_0_5l?shopCode=992301&shopType=dostavka
+- id: item_bdc68e028724
+  group: Вода
+  name: Вода Рычал-Су минеральная лечебно-столовая газированная 1л 4.9 · 505 отзывов
+    В корзину
+  url: https://magnit.ru/product/3272102702-voda_rychal_su_mineralnaya_gazirovannaya_1l?shopCode=992301&shopType=dostavka
+- id: item_1819b60cf08b
+  group: Вода
+  name: Негазированная вода детская Аквалайн Для ляль 500мл 4.8 · 39 отзывов В корзину
+  url: https://magnit.ru/product/1000586283-akvalayn_dlya_lyal_voda_pitevaya_detskaya_n_gaz_0_5l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_855d784769b1
+  group: Вода
+  name: Вода Аллея источников №17 питьевая минеральная лечебная газированная 1.5л
+    4.8 · 73 отзыва В корзину
+  url: https://magnit.ru/product/1000082878-voda_alleya_istochnikov_17_mineralnaya_lechebnaya_gazirovannaya_1_5l?shopCode=992301&shopType=dostavka
+- id: item_616ba16ae1e8
+  group: Вода
+  name: Вода Горячий ключ №2000 минеральная столовая газированная 1л 4.9 · 40 отзывов
+    В корзину
+  url: https://magnit.ru/product/1000460470-goryachiy_klyuch_2000_voda_miner_stolovaya_prirod_gaz_1l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_296dc8ad6da1
+  group: Вода
+  name: Вода Шишкин Лес Спорт негазированная 1л 4.9 · 5 отзывов В корзину
+  url: https://magnit.ru/product/1000182996-shishkin_les_pitev_voda_sport_negaz_1l_pl_but_shishkin_les_12?shopCode=992301&shopType=dostavka
+- id: item_3b288702bcf1
+  group: Вода
+  name: Вода Архыз Vita горная негазированная 500мл 4.7 · 7 отзывов В корзину
+  url: https://magnit.ru/product/1000299816-arkhyz_voda_gornaya_ne_gazirovannaya_0_5l_pl_but_visma_12?shopCode=992301&shopType=dostavka
+- id: item_9b196c8ca140
+  group: Вода
+  name: Вода Серебряная Усть-Быстра питьевая природная негазированная 10л 4.9 · 17
+    отзывов В корзину
+  url: https://magnit.ru/product/1000454731-serebryanaya_ust_bystraya_voda_pitevaya_prirodnaya_10l?shopCode=992301&shopType=dostavka
+- id: item_e73c72a51309
+  group: Вода
+  name: Вода негазированная со вкусом арбуза Святой Источник 500мл 4.8 · 49 отзывов
+    В корзину
+  url: https://magnit.ru/product/8000138127-svyatoy_istochnik_voda_pitevaya_arbuz_n_gaz_0_5l_pl_b?shopCode=992301&shopType=dostavka
+- id: item_164356ca8654
+  group: Соки
+  name: Нектар ФрутоНяня Яблоко и слива с мякотью 200мл 5 · 4 отзыва В корзину
+  url: https://magnit.ru/product/1518500047-frutonyanya_yabloko_sliva_0_2l_tba_progress_18?shopCode=992301&shopType=dostavka
+- id: item_59b083cab676
+  group: Соки
+  name: 55% 99,98 ₽ Морс из клюквы и малины с 5 месяцев Фрутоняня 200мл 5 · 23 отзыва
+    В корзину
+  url: https://magnit.ru/product/1000108667-mors_frutonyanya_klyukva_i_malina_200ml?shopCode=992301&shopType=dostavka
+- id: item_7eb3ea64087d
+  group: Соки
+  name: 55% 99,98 ₽ Ягодный морс с 5 месяцев Фрутоняня 200мл 5 · 35 отзывов В корзину
+  url: https://magnit.ru/product/1000108792-frutonyanya_mors_klyukva_chernika_vishnya_0_2l_t_pak_progress_18?shopCode=992301&shopType=dostavka
+- id: item_866d124b3b3d
+  group: Соки
+  name: Сок Яблоко-персик с 5 месяцев Фрутоняня 200мл 5 · 71 отзыв В корзину
+  url: https://magnit.ru/product/1518500053-frutonyanya_sok_yabloko_persik_b_sakh_0_2l_t_pak_progress_18?shopCode=992301&shopType=dostavka
+- id: item_5e94b9f5a795
+  group: Соки
+  name: Сок Сады Придонья Яблоко-виноград 200мл 4.9 · 127 отзывов В корзину
+  url: https://magnit.ru/product/9899996047-sok_sady_pridonya_yabloko_i_vinograd_200ml?shopCode=992301&shopType=dostavka
+- id: item_224fbe9991cd
+  group: Соки
+  name: Сок Сады Придонья Яблоко зеленое 125мл 5 · 81 отзыв В корзину
+  url: https://magnit.ru/product/1059990563-sok_sady_pridonya_yabloko_osvetlennyy_125ml?shopCode=992301&shopType=dostavka
+- id: item_e1c51c0a32e3
+  group: Соки
+  name: Сок детский Сады Придонья яблоко банан с 6 месяцев 200мл 4.9 · 1 отзыв В корзину
+  url: https://magnit.ru/product/1000480721-sady_pridonya_sok_yabl_ban_s_6mes_0_2l_t_p?shopCode=992301&shopType=dostavka
+- id: item_96235003d262
+  group: Соки
+  name: 15% 94,99 ₽ Нектар ФрутоНяня Яблоко-вишня 500мл 5 · 11 отзывов В корзину
+  url: https://magnit.ru/product/1000201235-nektar_frutonyanya_yabloko_i_vishnya_500ml?shopCode=992301&shopType=dostavka
+- id: item_2c52ddfabb72
+  group: Соки
+  name: Сок из яблока и вишня с 5 месяцев Фрутоняня 200мл 4.9 · 55 отзывов В корзину
+  url: https://magnit.ru/product/1000199578-sok_frutonyanya_yabloko_i_vishnya_200ml?shopCode=992301&shopType=dostavka
+- id: item_c18a60e62caa
+  group: Соки
+  name: 15% 94,99 ₽ Нектар Фрутоняня яблоко виноград 500мл 5 · 5 отзывов В корзину
+  url: https://magnit.ru/product/1000569652-frutonyanya_nektar_yabloko_vinograd_0_5l_t_pak?shopCode=992301&shopType=dostavka
+- id: item_63a4219131e4
+  group: Соки
+  name: Сок Сады Придонья Яблоко-ананас 200мл 4.4 · 1 отзыв В корзину
+  url: https://magnit.ru/product/3279250001-sok_sady_pridonya_yabloko_ananas_200ml?shopCode=992301&shopType=dostavka
+- id: item_947ee3a0db65
+  group: Соки
+  name: Сок ФрутоНяня Яблоко прямой отжим 200мл 4.9 · 4 отзыва В корзину
+  url: https://magnit.ru/product/1000097085-sok_frutonyanya_pryamogo_otzhima_yabloko_200ml?shopCode=992301&shopType=dostavka
+- id: item_c235b663f0f4
+  group: Напитки
+  name: 23% 209,99 ₽ Нектар Апельсиновый Premiere of Taste 1л 4.6 · 213 отзывов В
+    корзину
+  url: https://magnit.ru/product/1000526133-premiere_of_taste_nektar_apelsinovyy_1l_st_but?shopCode=992301&shopType=dostavka
+- id: item_26448b638186
+  group: Напитки
+  name: 14% 169,99 ₽ Нектар вишнёвый Premiere of taste 1л 4.6 · 34 отзыва В корзину
+  url: https://magnit.ru/product/1000572479-premiere_of_taste_nektar_vishnyevyy_bez_myakoti_1l_infud?shopCode=992301&shopType=dostavka
+- id: item_3e1543eae3ac
+  group: Напитки
+  name: 12% 79,99 ₽ Напиток с кусочками алоэ Eastrail 500мл 4.9 · 5 отзывов В корзину
+  url: https://magnit.ru/product/8000140788-eastrail_napitok_s_kusochkami_aloe_0_5l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_0ca52310ae4b
+  group: Вода и напитки — дополнительный каталог
+  name: 29% 239,99 ₽ Сок Сады Придонья из зеленых яблок 2л 5 · 433 отзыва В корзину
+  url: https://magnit.ru/product/1000374937-sady_pridonya_sok_222001_sok_naturalnye_khorosho_vyrazhennye_svoystvennye_vkusu_i_aromatu_yablok_pos?shopCode=992301&shopType=dostavka
+- id: item_71a387f5dd1b
+  group: Вода и напитки — дополнительный каталог
+  name: 16% 159,99 ₽ Сок Магнит гранатовый 1л 4.8 · 306 отзывов В корзину
+  url: https://magnit.ru/product/9842300001-magnit_semeynye_sekrety_sok_granatovyy_1l_rossiya_6?shopCode=992301&shopType=dostavka
+- id: item_79a36e743609
+  group: Напитки
+  name: Напиток Черноголовка Красный виноград 1.5л 4.9 · 381 отзыв В корзину
+  url: https://magnit.ru/product/1000564880-chernogolovka_napitok_krasn_vinograd_b_a_sil_gaz_1_5l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_3de33024a35b
+  group: Напитки
+  name: 17% 39,99 ₽ Вода Только вода питьевая артезианская негазированная 1,5л 4.8
+    · 59 отзывов В корзину
+  url: https://magnit.ru/product/1000215135-tolko_pitevaya_voda_arteziansk_negaz_1_5l_pl_but_eko_lab_6?shopCode=992301&shopType=dostavka
+- id: item_688a0f591448
+  group: Напитки
+  name: 25% 59,99 ₽ Вода Моя стихия минеральная питьевая газированная 1.5л 5 · 83
+    отзыва В корзину
+  url: https://magnit.ru/product/8000019747-moya_stikhiya_voda_mineralnaya_pitevaya_gaz_1_5l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_89afba514a7d
+  group: Вода и напитки — дополнительный каталог
+  name: Газированный напиток со вкусом кислого яблока Добрый 1л 4.9 · 212 отзывов
+    В корзину
+  url: https://magnit.ru/product/8000114075-dobryy_kisloe_yabloko_b_a_s_g_1l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_5322ce99c83b
+  group: Напитки
+  name: 18% 79,99 ₽ Напиток Тетя Груша 1.5л 4.9 · 92 отзыва В корзину
+  url: https://magnit.ru/product/1000114126-tetya_grusha_napitok_gaz_1_5l_pl_but_stavropolskiy_pz_6?shopCode=992301&shopType=dostavka
+- id: item_d316819d5f73
+  group: Напитки
+  name: Напиток Черноголовка Кола без сахара 1.5л 4.8 · 14 отзывов В корзину
+  url: https://magnit.ru/product/1000468752-chernogolovka_napitok_b_a_sil_gaz_kola_b_sakhara_1_5l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_e5625d8f0781
+  group: Напитки
+  name: 29% 129,99 ₽ Напиток Любимый сокосодержащий Черника 950мл 5 · 1 отзыв В корзину
+  url: https://magnit.ru/product/1000397878-lyubimyy_napitok_sokosoderzhashchiy_chernika_0_95l_t_p?shopCode=992301&shopType=dostavka
+- id: item_57df22bff812
+  group: Напитки
+  name: 10% 229,99 ₽ Нектар Добрый Деревенские яблочки с мякотью 2л 4.8 · 13 отзывов
+    В корзину
+  url: https://magnit.ru/product/1000198351-dobryy_nektar_derevenskie_yablochki_2l_t_pak_multon_6?shopCode=992301&shopType=dostavka
+- id: item_b99e89d56351
+  group: Лимонады и газировка
+  name: Газированный напиток со вкусом лайма лимона и мяты Laimon Fresh 1.3л 4.9 ·
+    75 отзывов В корзину
+  url: https://magnit.ru/product/8000138140-laimon_fresh_napitok_b_a_laym_limon_myata_sil_gaz_1_3l?shopCode=992301&shopType=dostavka
+- id: item_cee681c9fb7a
+  group: Лимонады и газировка
+  name: 16% 179,99 ₽ Лимонад Lapochka Christmas Drink 330мл 5 Нет отзывов В корзину
+  url: https://magnit.ru/product/1000575754-lapochka_napitok_b_a_zimnee_izdanie_sr_gaz_0_33l_zh_b?shopCode=992301&shopType=dostavka
+- id: item_ead2262bcbba
+  group: Лимонады и газировка
+  name: 18% 109,99 ₽ Напиток газированный груша и миндаль Zvonko Classic 400мл 5 ·
+    1 отзыв В корзину
+  url: https://magnit.ru/product/8000150313-zvonko_classic_napitok_grusha_mindal_gaz_0_4l_st_but?shopCode=992301&shopType=dostavka
+- id: item_bc85544fef0c
+  group: Лимонады и газировка
+  name: Напиток газированный Мохито клубника и манго Черноголовка 1л 5 · 1 отзыв В
+    корзину
+  url: https://magnit.ru/product/8000075411-chernogolovka_nap_b_a_gaz_mokhito_klubnika_mango_1l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_835645c0d736
+  group: Лимонады и газировка
+  name: 18% 109,99 ₽ Напиток газированный тархун клубника и мята Zvonko Classic 400мл
+    5 · 2 отзыва В корзину
+  url: https://magnit.ru/product/8000150315-zvonko_classic_napitok_tarkhun_klubnika_myata_0_4l_st_but?shopCode=992301&shopType=dostavka
+- id: item_5ff0e21be9d5
+  group: Лимонады и газировка
+  name: Газированный напиток груша персик и цветы вишни Черноголовка 450мл 4.8 · 5
+    отзывов В корзину
+  url: https://magnit.ru/product/8000110302-chernogolovka_nap_b_a_gaz_grusha_persik_tsv_vishni_0_45l_zh_b?shopCode=992301&shopType=dostavka
+- id: item_d3d2054a8bdc
+  group: Лимонады и газировка
+  name: 33% 129,99 ₽ Напиток газированный со вкусом вишни и японской сливы Frustyle
+    1л 4.6 · 79 отзывов В корзину
+  url: https://magnit.ru/product/8000104233-frustyle_napitok_b_a_vish_yapon_sliva_s_g_1l_pl_but_pepsiko?shopCode=992301&shopType=dostavka
+- id: item_4c98c4f32972
+  group: Лимонады и газировка
+  name: 36% 109,99 ₽ Газированный напиток Milky Soda со вкусом винограда Brandice
+    250мл 4.5 · 51 отзыв В корзину
+  url: https://magnit.ru/product/8000120720-brandice_napitok_milky_soda_vinograd_gaz_0_25l_zh_b?shopCode=992301&shopType=dostavka
+- id: item_6cb1b16d932b
+  group: Лимонады и газировка
+  name: 36% 109,99 ₽ Газированный напиток Milky Soda со вкусом дыни Brandice 250мл
+    4.8 · 39 отзывов В корзину
+  url: https://magnit.ru/product/8000120719-brandice_napitok_milky_soda_dynya_gaz_0_25l_zh_b?shopCode=992301&shopType=dostavka
+- id: item_6db78b889790
+  group: Вода и напитки — дополнительный каталог
+  name: 11% 169,99 ₽ Напиток Черноголовка дюшес 2л 4.9 · 577 отзывов В корзину
+  url: https://magnit.ru/product/9858700004-napitok_dyushes_napitki_iz_chernogolovki_gazirovannyy_2l?shopCode=992301&shopType=dostavka
+- id: item_b5d3f3c5e16c
+  group: Вода и напитки — дополнительный каталог
+  name: Напиток Добрый Апельсин 1л 5 · 189 отзывов В корзину
+  url: https://magnit.ru/product/1000456618-dobryy_napitok_b_a_sil_gaz_apelsin_1l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_027b93e62ce0
+  group: Вода и напитки — дополнительный каталог
+  name: 23% 129,99 ₽ Напиток Любимый Земляничное лето 950мл 4.9 · 294 отзыва В корзину
+  url: https://magnit.ru/product/1000011310-napitok_lyubimyy_zemlyanichnoe_leto_950ml?shopCode=992301&shopType=dostavka
+- id: item_3eb9048e719f
+  group: Вода и напитки — дополнительный каталог
+  name: 29% 239,99 ₽ Сок Сады Придонья яблоко-виноград 2л 4.9 · 176 отзывов В корзину
+  url: https://magnit.ru/product/1000374935-sady_pridonya_sok_222006_sok_naturalnye_khorosho_vyrazhennye_svoystvennye_vkusu_i_zapakhu_sootvetstv?shopCode=992301&shopType=dostavka
+- id: item_157a9d91ed17
+  group: Вода и напитки — дополнительный каталог
+  name: 23% 129,99 ₽ Напиток Любимый Вишневая черешня 950мл 4.9 · 239 отзывов В корзину
+  url: https://magnit.ru/product/1000141774-napitok_lyubimyy_vishnya_i_chereshnya_950ml?shopCode=992301&shopType=dostavka
+- id: item_ec5922d8d439
+  group: Вода и напитки — дополнительный каталог
+  name: Напиток Добрый Cola без сахара 1л 4.9 · 304 отзыва В корзину
+  url: https://magnit.ru/product/1000456968-dobryy_napitok_kola_b_sakh_b_a_s_g_1l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_8f11065eaf2a
+  group: Вода и напитки — дополнительный каталог
+  name: Напиток Добрый Cola 1л 4.9 · 364 отзыва В корзину
+  url: https://magnit.ru/product/1000456964-dobryy_napitok_kola_b_a_s_g_1l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_21691af96e0d
+  group: Вода и напитки — дополнительный каталог
+  name: 10% 99,99 ₽ Напиток Псыж со вкусом Гранат 1л 4.8 · 634 отзыва В корзину
+  url: https://magnit.ru/product/1000561911-psyzh_napitok_gaz_vkus_granat_1l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_51eb7aefeac5
+  group: Вода и напитки — дополнительный каталог
+  name: 23% 129,99 ₽ Напиток Любимый Спелый томат 950мл 4.8 · 410 отзывов В корзину
+  url: https://magnit.ru/product/1000187815-napitok_lyubimyy_nektar_tomatnyy_s_solyu_950ml?shopCode=992301&shopType=dostavka
+- id: item_559cf0ccf5f2
+  group: Вода и напитки — дополнительный каталог
+  name: 29% 239,99 ₽ Сок Сады Придонья мультифрукт с мякотью 2л 4.9 · 231 отзыв В
+    корзину
+  url: https://magnit.ru/product/1000374933-sady_pridonya_sok_222003_sok_naturalnye_khorosho_vyrazhennye_svoystvennye_vkusu_i_zapakhu_sootvetstv?shopCode=992301&shopType=dostavka
+- id: item_21aad87b4c01
+  group: Вода и напитки — дополнительный каталог
+  name: Напиток Добрый Cola Малина 1л 4.6 · 35 отзывов В корзину
+  url: https://magnit.ru/product/1000549824-dobryy_kola_malina_b_a_s_g_1l_pl_but_multon_partners?shopCode=992301&shopType=dostavka
+- id: item_6a31087d3e95
+  group: Вода и напитки — дополнительный каталог
+  name: 10% 99,99 ₽ Напиток Псыж со вкусом Манго 1л 4.7 · 437 отзывов В корзину
+  url: https://magnit.ru/product/1000561912-psyzh_napitok_gaz_vkus_mango_1l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_b932abad23ce
+  group: Вода и напитки — дополнительный каталог
+  name: Напиток Добрый Манго-маракуйя 1л 4.8 · 95 отзывов В корзину
+  url: https://magnit.ru/product/1000456622-dobryy_napitok_b_a_sil_gaz_mango_marakuyya_1l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_cb59dd0b22be
+  group: Вода и напитки — дополнительный каталог
+  name: Напиток Добрый Лимон-лайм 1л 4.9 · 25 отзывов В корзину
+  url: https://magnit.ru/product/1000456626-dobryy_napitok_b_a_sil_gaz_limon_laym_1l_pl_but?shopCode=992301&shopType=dostavka
+- id: item_a01bd7331595
+  group: Вода и напитки — дополнительный каталог
+  name: Энергетический напиток Lit Energy Citrus Punch 450мл 4.8 · 31 отзыв В корзину
+  url: https://magnit.ru/product/8000110757-lit_energy_napitok_toniziruyushchiy_citrus_punch_0_45l_zh_b?shopCode=992301&shopType=dostavka
+- id: item_9abaa6e98a13
+  group: Вода и напитки — дополнительный каталог
+  name: Напиток Кола со вкусом дыни Добрый 1л 4.7 · 46 отзывов В корзину
+  url: https://magnit.ru/product/8000113338-dobryy_kola_dynya_b_a_s_g_1l_pl_but?shopCode=992301&shopType=dostavka
